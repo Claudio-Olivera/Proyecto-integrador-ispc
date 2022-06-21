@@ -32,6 +32,7 @@ Tres artefactos principales de Scrum:
 - Increment.
 
 ####	Product Backlog o lista de producto: Listado dinámico de elementos obligatorios, entre los que se incluyen las características del producto, las mejoras del producto y los arreglos necesarios, se actualiza a menudo para reflejar las últimas necesidades del mercado, o el feedback del cliente. Lo controla el Product Owner.
+
 Un Product Backlog contiene distintos elementos:
 - Funcionalidades
 - Bugs
@@ -45,5 +46,28 @@ Un Product Backlog contiene distintos elementos:
 
 
 ## Roles:
+### Los equipos scrum son auto-gestionados y multidisciplinarios. Esto significa, que como equipo, ellos mismos deciden cual es el mejor camino a seguir, nadie de fuera del equipo decide sobre los pasos a seguir. Además, los equipos scrum poseen ellos mismos todas las habilidades necesarias para llevar a cabo su trabajo, sin necesidad de la intervención de un agente externo. Un equipo que ha alcanzado la madurez en scrum, se fundamenta en su abilidad organizativa, son capaces de auto-organizarse en todos los aspectos, tanto los técnicos como los funcionales.
+
+Estos equipos están conformados por 3 roles principales:
+- Un Product Owner (PO)
+- Un Scrum Master (SM)
+- Un equipo de desarrollo
+
+#### Product Owner (Dueño del Producto)
+Este tiene la responsabilidad de decidir qué trabajo necesita hacerse y maximizar el valor del producto o proyecto que esté llevando a cabo. Esto, que se expresa fácilmente, pero realmente es una tarea que conlleva lo siguiente:
+
+- Gestiona prioridades: El Product Owner tiene la responsabilidad de gestionar los presupuestos, de contratar al equipo de desarrollo y de explicar cuál es el valor que produce el producto en el que está invirtiendo.
+
+- Representante del negocio: Cuando es alguien de negocio, aportará valor a su trabajo al producto dependiendo de al menos dos variables. La primera es la capacidad de decisión que tiene. En ocasiones, es normal que el Product Owner no pueda realmente tomar decisiones sin consultar con otra persona. En ese caso, no es un Product Owner real y debe, o de ser sustituido por la persona que toma las decisiones, o tomarlas por el mismo.
+
+-Intraemprendedor: En esta el Product Owner aporta valor al negocio. En esta faceta es un Product Manager ágil, capaz de medir el valor generado y utilizar la flexibilidad de entregar cada Sprint para incrementar ese valor.
+
+#### El Scrum Master
+Este actúa como un líder servicial, ayudando al equipo y a la organización a usar lo mejor posible  la Metodología Scrum, se focaliza en la parte de negocio y es responsable del ROI del proyecto. Traslada la visión del proyecto al equipo, formaliza las prestaciones en historias a incorporar en el Product Backlog y las prioriza de forma regular.
+
+#### Team (Equipo de Desarrollo) 
+Es el grupo de profesionales con los conocimientos técnicos necesarios y que desarrollan el proyecto de manera conjunta llevando a cabo las historias a las que se comprometen al inicio de cada sprint. Sprint es una serie de periodos de tiempos pequeños, cuya duración es de 1 a 4 semanas, con preferencia por los intervalos más cortos. En cada Sprint, el equipo construye y entrega un incremento del producto. Cada incremento es un subconjunto del producto, reconocible y visualmente mejorado, que cumple con el criterio de aceptación y está construido con un nivel de calidad llamado definición de terminado.
+
+Estos tres roles de Scrum se requieren para crear el producto del proyecto, son los responsables del éxito de cada sprint y del proyecto en su totalidad.
 
 
