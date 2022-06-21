@@ -24,7 +24,7 @@ A lo largo de un proyecto tendremos distintas ceremonias, con distintos objetivo
   
 
 ## Artefactos:
-### Se le conoce a todos los elementos de la gestion de transparecia como Artefacntos de Scrum. Diseñado para garantizar la transparencia dentro del equipo para evitar mal manejo de informacion, cominicacion y errores en la entrega del proyecto scrum.
+### Se le conoce a todos los elementos de la gestion de transparecia como Artefacntos de Scrum. Diseñado para garantizar la transparencia dentro del equipo para evitar mal manejo de información, comunicación y errores en la entrega del proyecto scrum.
 
 Tres artefactos principales de Scrum:
 - Product Backlog
