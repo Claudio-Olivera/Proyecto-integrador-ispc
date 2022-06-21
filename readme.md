@@ -60,7 +60,7 @@ Este tiene la responsabilidad de decidir qué trabajo necesita hacerse y maximiz
 
 - Representante del negocio: Cuando es alguien de negocio, aportará valor a su trabajo al producto dependiendo de al menos dos variables. La primera es la capacidad de decisión que tiene. En ocasiones, es normal que el Product Owner no pueda realmente tomar decisiones sin consultar con otra persona. En ese caso, no es un Product Owner real y debe, o de ser sustituido por la persona que toma las decisiones, o tomarlas por el mismo.
 
--Intraemprendedor: En esta el Product Owner aporta valor al negocio. En esta faceta es un Product Manager ágil, capaz de medir el valor generado y utilizar la flexibilidad de entregar cada Sprint para incrementar ese valor.
+- Intraemprendedor: En esta el Product Owner aporta valor al negocio. En esta faceta es un Product Manager ágil, capaz de medir el valor generado y utilizar la flexibilidad de entregar cada Sprint para incrementar ese valor.
 
 #### El Scrum Master
 Este actúa como un líder servicial, ayudando al equipo y a la organización a usar lo mejor posible  la Metodología Scrum, se focaliza en la parte de negocio y es responsable del ROI del proyecto. Traslada la visión del proyecto al equipo, formaliza las prestaciones en historias a incorporar en el Product Backlog y las prioriza de forma regular.
