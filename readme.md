@@ -24,6 +24,25 @@ A lo largo de un proyecto tendremos distintas ceremonias, con distintos objetivo
   
 
 ## Artefactos:
+### Se le conoce a todos los elementos de la gestion de transparecia como Artefacntos de Scrum. Diseñado para garantizar la transparencia dentro del equipo para evitar mal manejo de informacion, cominicacion y errores en la entrega del proyecto scrum.
+
+Tres artefactos principales de Scrum:
+- Product Backlog
+- Sprin backlog
+- Increment.
+
+####	Product Backlog o lista de producto: Listado dinámico de elementos obligatorios, entre los que se incluyen las características del producto, las mejoras del producto y los arreglos necesarios, se actualiza a menudo para reflejar las últimas necesidades del mercado, o el feedback del cliente. Lo controla el Product Owner.
+Un Product Backlog contiene distintos elementos:
+- Funcionalidades
+- Bugs
+- Historias de usuario
+- Tareas técnicas
+- Trabajo de investigación
+- 
+####	Sprint Backlog o Lista de Objetivos Pendientes del Sprint: Se trata de un artefacto flexible, que se adapta a las necesidades, cambiando el orden del trabajo, quitando las tareas innecesarias, y agregando las que sean necesarias. Este listado lo supervisa el Scrum Master.
+
+####	Incremento: Es el resultado del Sprint, es la suma de todas las tareas, casos de uso, historias de usuario y cualquier elemento que se haya desarrollado durante el Sprint y que será puesto a disposición del usuario final en forma de software, aportando un valor de negocio al producto que se está desarrollando.
+
 
 ## Roles:
 
