@@ -10,7 +10,7 @@
 # Conceptos extraidos del material de Scrum:
 
 ## Ceremonias:
-Según el manifiesto ágil, la forma más eficiente y efectiva de comunicar información de ida y vuelta dentro de un equipo de desarrollo es mediante la comunicación cara a cara. Estas reuniones o encuentros se denominan "Ceremonias".
+### Según el manifiesto ágil, la forma más eficiente y efectiva de comunicar información de ida y vuelta dentro de un equipo de desarrollo es mediante la comunicación cara a cara. Estas reuniones o encuentros se denominan "Ceremonias".
 A lo largo de un proyecto tendremos distintas ceremonias, con distintos objetivos y miembros del equipo involucrados:
 - Sprint Planning Meeting
 - Daily Scrum Meeting
