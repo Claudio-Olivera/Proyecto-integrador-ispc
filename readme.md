@@ -1,6 +1,6 @@
 # TP-Proyecto-integrador-ispc
 
-#Consignas:
+# Consignas:
 
 - Extraer del material de Scrum los siguientes conceptos: Ceremonias, Artefactos y Roles.
 - Registrar estos conceptos dentro del readme.md y renombrarlo como ConceptosScrum.md
