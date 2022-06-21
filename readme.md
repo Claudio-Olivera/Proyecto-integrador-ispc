@@ -38,7 +38,7 @@ Un Product Backlog contiene distintos elementos:
 - Historias de usuario
 - Tareas técnicas
 - Trabajo de investigación
-- 
+
 ####	Sprint Backlog o Lista de Objetivos Pendientes del Sprint: Se trata de un artefacto flexible, que se adapta a las necesidades, cambiando el orden del trabajo, quitando las tareas innecesarias, y agregando las que sean necesarias. Este listado lo supervisa el Scrum Master.
 
 ####	Incremento: Es el resultado del Sprint, es la suma de todas las tareas, casos de uso, historias de usuario y cualquier elemento que se haya desarrollado durante el Sprint y que será puesto a disposición del usuario final en forma de software, aportando un valor de negocio al producto que se está desarrollando.
