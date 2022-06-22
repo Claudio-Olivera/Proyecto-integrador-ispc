@@ -24,7 +24,7 @@ A lo largo de un proyecto tendremos distintas ceremonias, con distintos objetivo
   
 
 ## Artefactos:
-### Se le conoce a todos los elementos de la gestion de transparecia como Artefacntos de Scrum. Diseñado para garantizar la transparencia dentro del equipo para evitar mal manejo de información, comunicación y errores en la entrega del proyecto scrum.
+### Se le conoce a todos los elementos de la gestion de transparecia como Artefactos de Scrum. Diseñado para garantizar la transparencia dentro del equipo para evitar mal manejo de información, comunicación y errores en la entrega del proyecto scrum.
 
 Tres artefactos principales de Scrum:
 - Product Backlog
@@ -46,7 +46,7 @@ Un Product Backlog contiene distintos elementos:
 
 
 ## Roles:
-### Los equipos scrum son auto-gestionados y multidisciplinarios. Esto significa, que como equipo, ellos mismos deciden cual es el mejor camino a seguir, nadie de fuera del equipo decide sobre los pasos a seguir. Además, los equipos scrum poseen ellos mismos todas las habilidades necesarias para llevar a cabo su trabajo, sin necesidad de la intervención de un agente externo. Un equipo que ha alcanzado la madurez en scrum, se fundamenta en su habilidad organizativa, son capaces de auto-organizarse en todos los aspectos, tanto los técnicos como los funcionales.
+### Los equipos scrum son auto-gestionados y multidisciplinarios. Esto significa, que como equipo, ellos mismos deciden cuál es el mejor camino a seguir, nadie de fuera del equipo decide sobre los pasos a seguir. Además, los equipos scrum poseen ellos mismos todas las habilidades necesarias para llevar a cabo su trabajo, sin necesidad de la intervención de un agente externo. Un equipo que ha alcanzado la madurez en scrum, se fundamenta en su habilidad organizativa, son capaces de auto-organizarse en todos los aspectos, tanto los técnicos como los funcionales.
 
 Estos equipos están conformados por 3 roles principales:
 - Un Product Owner (PO)
@@ -63,7 +63,7 @@ Este tiene la responsabilidad de decidir qué trabajo necesita hacerse y maximiz
 - Intraemprendedor: En esta el Product Owner aporta valor al negocio. En esta faceta es un Product Manager ágil, capaz de medir el valor generado y utilizar la flexibilidad de entregar cada Sprint para incrementar ese valor.
 
 #### El Scrum Master
-Este actúa como un líder servicial, ayudando al equipo y a la organización a usar lo mejor posible  la Metodología Scrum, se focaliza en la parte de negocio y es responsable del ROI del proyecto. Traslada la visión del proyecto al equipo, formaliza las prestaciones en historias a incorporar en el Product Backlog y las prioriza de forma regular.
+Este actúa como un líder servicial, ayudando al equipo y a la organización a usar lo mejor posible la Metodología Scrum, se focaliza en la parte de negocio y es responsable del ROI del proyecto. Traslada la visión del proyecto al equipo, formaliza las prestaciones en historias a incorporar en el Product Backlog y las prioriza de forma regular.
 
 #### Team (Equipo de Desarrollo) 
 Es el grupo de profesionales con los conocimientos técnicos necesarios y que desarrollan el proyecto de manera conjunta llevando a cabo las historias a las que se comprometen al inicio de cada sprint. Sprint es una serie de periodos de tiempos pequeños, cuya duración es de 1 a 4 semanas, con preferencia por los intervalos más cortos. En cada Sprint, el equipo construye y entrega un incremento del producto. Cada incremento es un subconjunto del producto, reconocible y visualmente mejorado, que cumple con el criterio de aceptación y está construido con un nivel de calidad llamado definición de terminado.
