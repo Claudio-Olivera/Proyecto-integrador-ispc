@@ -46,7 +46,7 @@ Un Product Backlog contiene distintos elementos:
 
 
 ## Roles:
-### Los equipos scrum son auto-gestionados y multidisciplinarios. Esto significa, que como equipo, ellos mismos deciden cuál es el mejor camino a seguir, nadie de fuera del equipo decide sobre los pasos a seguir. Además, los equipos scrum poseen ellos mismos todas las habilidades necesarias para llevar a cabo su trabajo, sin necesidad de la intervención de un agente externo. Un equipo que ha alcanzado la madurez en scrum, se fundamenta en su habilidad organizativa, son capaces de auto-organizarse en todos los aspectos, tanto los técnicos como los funcionales.
+### Los equipos scrum son auto-gestionados y multidisciplinarios. Es decir, como equipo, ellos mismos deciden cuál es el mejor camino a seguir, nadie de fuera del equipo decide sobre los pasos a seguir. Además, los equipos scrum poseen ellos mismos todas las habilidades necesarias para llevar a cabo su trabajo, sin necesidad de la intervención de un agente externo. Un equipo que ha alcanzado la madurez en scrum, se fundamenta en su habilidad organizativa, son capaces de auto-organizarse en todos los aspectos, tanto los técnicos como los funcionales.
 
 Estos equipos están conformados por 3 roles principales:
 - Un Product Owner (PO)
