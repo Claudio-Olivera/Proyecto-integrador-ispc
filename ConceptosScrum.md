@@ -25,13 +25,13 @@ A lo largo de un proyecto tendremos distintas ceremonias, con distintos objetivo
 
 ## Artefactos:
 ### Se le conoce a todos los elementos de la gestion de transparecia como Artefactos de Scrum. Diseñado para garantizar la transparencia dentro del equipo para evitar mal manejo de información, comunicación y errores en la entrega del proyecto scrum.
-
+### Son aquellos elementos físicos que se producen como resultado de la aplicación de Scrum. 
 Tres artefactos principales de Scrum:
 - Product Backlog
 - Sprin backlog
 - Increment.
 
-####	Product Backlog o lista de producto: Listado dinámico de elementos obligatorios, entre los que se incluyen las características del producto, las mejoras del producto y los arreglos necesarios, se actualiza a menudo para reflejar las últimas necesidades del mercado, o el feedback del cliente. Lo controla el Product Owner.
+####	Product Backlog o lista de producto: Listado dinámico de elementos obligatorios, entre los que se incluyen las características del producto, las mejoras del producto y los arreglos necesarios, se actualiza a menudo para reflejar las últimas necesidades del mercado, o el feedback del cliente. Lo controla el Product Owner, siendo su principal función la de priorizar aquellos elementos que tienen más valor en cada etapa y detallarlos para que el equipo de desarrollo sea capaz de valorarlos y ejecutarlos.
 
 Un Product Backlog contiene distintos elementos:
 - Funcionalidades
@@ -40,9 +40,9 @@ Un Product Backlog contiene distintos elementos:
 - Tareas técnicas
 - Trabajo de investigación
 
-####	Sprint Backlog o Lista de Objetivos Pendientes del Sprint: Se trata de un artefacto flexible, que se adapta a las necesidades, cambiando el orden del trabajo, quitando las tareas innecesarias, y agregando las que sean necesarias. Este listado lo supervisa el Scrum Master.
+####	Sprint Backlog o Lista de Objetivos Pendientes del Sprint: Se trata de un artefacto flexible, que se adapta a las necesidades, cambiando el orden del trabajo, quitando las tareas innecesarias, y agregando las que sean necesarias. Este listado lo supervisa el Scrum Master. Es básicamente, una lista de elementos en los que trabajar durante la etapa de Sprint. Estos elementos normalmente se componen de tareas técnicas más pequeñas. Este artefacto permite entender cuál es la evolución del trabajo durante el Sprint, así como hacer un análisis de riesgos. 
 
-####	Incremento: Es el resultado del Sprint, es la suma de todas las tareas, casos de uso, historias de usuario y cualquier elemento que se haya desarrollado durante el Sprint y que será puesto a disposición del usuario final en forma de software, aportando un valor de negocio al producto que se está desarrollando.
+####	Incremento: Es el resultado del Sprint, es la suma de todas las tareas, casos de uso, historias de usuario y cualquier elemento que se haya desarrollado durante el Sprint y que será puesto a disposición del usuario final en forma de software, aportando un valor de negocio al producto que se está desarrollando. 
 
 
 ## Roles:
