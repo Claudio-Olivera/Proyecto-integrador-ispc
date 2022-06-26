@@ -26,7 +26,7 @@ A lo largo de un proyecto tendremos distintas ceremonias, con distintos objetivo
 ## Artefactos:
 ### Se le conoce a todos los elementos de la gestion de transparecia como Artefactos de Scrum. Diseñado para garantizar la transparencia dentro del equipo para evitar mal manejo de información, comunicación y errores en la entrega del proyecto scrum.
 ### Son aquellos elementos físicos que se producen como resultado de la aplicación de Scrum. 
-![Imagen Roles Scrum](https://i0.wp.com/ticsyformacion.com/wp-content/uploads/2021/02/SCRUM-Artefactos.png?fit=2245%2C1587&ssl=1)
+![Imagen Artefactos Scrum](https://i0.wp.com/ticsyformacion.com/wp-content/uploads/2021/02/SCRUM-Artefactos.png?fit=2245%2C1587&ssl=1)
 
 Tres artefactos principales de Scrum:
 - Product Backlog
@@ -55,7 +55,7 @@ Estos equipos están conformados por 3 roles principales:
 - Un Scrum Master (SM)
 - Un equipo de desarrollo
 
-![Imagen Roles Scrum](https://www.javiergarzas.com/wp-content/uploads/2014/03/rol_scrumMaster.jpg)
+
 
 #### Product Owner (Dueño del Producto)
 Este tiene la responsabilidad de decidir qué trabajo necesita hacerse y maximizar el valor del producto o proyecto que esté llevando a cabo. Esto, que se expresa fácilmente, pero realmente es una tarea que conlleva lo siguiente:
@@ -91,6 +91,7 @@ Planificar y asesorar implementaciones de Scrum dentro de la organización;
 - Ayudar a los empleados y los interesados a comprender y aplicar un enfoque empírico para el
 trabajo complejo;
 Eliminar las barreras entre los interesados y los Scrum Teams.
+![Imagen Roles Scrum](https://www.javiergarzas.com/wp-content/uploads/2014/03/rol_scrumMaster.jpg)
 
 #### Team (Equipo de Desarrollo) 
 Es el grupo de profesionales con los conocimientos técnicos necesarios y que desarrollan el proyecto de manera conjunta llevando a cabo las historias a las que se comprometen al inicio de cada sprint. Sprint es una serie de periodos de tiempos pequeños, cuya duración es de 1 a 4 semanas, con preferencia por los intervalos más cortos. En cada Sprint, el equipo construye y entrega un incremento del producto. Cada incremento es un subconjunto del producto, reconocible y visualmente mejorado, que cumple con el criterio de aceptación y está construido con un nivel de calidad llamado definición de terminado.
