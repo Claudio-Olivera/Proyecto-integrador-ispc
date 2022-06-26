@@ -53,6 +53,8 @@ Estos equipos están conformados por 3 roles principales:
 - Un Scrum Master (SM)
 - Un equipo de desarrollo
 
+![Imagen Roles Scrum](https://www.javiergarzas.com/wp-content/uploads/2014/03/rol_scrumMaster.jpg)
+
 #### Product Owner (Dueño del Producto)
 Este tiene la responsabilidad de decidir qué trabajo necesita hacerse y maximizar el valor del producto o proyecto que esté llevando a cabo. Esto, que se expresa fácilmente, pero realmente es una tarea que conlleva lo siguiente:
 
