@@ -65,6 +65,29 @@ Este tiene la responsabilidad de decidir qué trabajo necesita hacerse y maximiz
 #### El Scrum Master
 Este actúa como un líder servicial, ayudando al equipo y a la organización a usar lo mejor posible la Metodología Scrum, se focaliza en la parte de negocio y es responsable del ROI del proyecto. Traslada la visión del proyecto al equipo, formaliza las prestaciones en historias a incorporar en el Product Backlog y las prioriza de forma regular.
 
+Los Scrum Masters son verdaderos líderes que sirven al Scrum Team y a la organización en general.
+El Scrum Master sirve al Scrum Team de varias maneras, que incluyen:
+- Guiar a los miembros del equipo en ser autogestionados y multifuncionales;
+- Ayudar al Scrum Team a enfocarse en crear Increments de alto valor que cumplan con la Definición de Terminado;
+- Procurar la eliminación de impedimentos para el progreso del Scrum Team;
+- Asegurarse de que todos los eventos de Scrum se lleven a cabo y sean positivos, productivos y
+se mantengan dentro de los límites de tiempo recomendados en esta Guía.
+
+El Scrum Master sirve al Product Owner de varias maneras, que incluyen:
+- Ayudar a encontrar técnicas para una definición efectiva de Objetivos del Producto y la gestión
+del Product Backlog;
+- Ayudar al Scrum Team a comprender la necesidad de tener elementos del Product Backlog
+claros y concisos;
+- Ayudar a establecer una planificación empírica de productos para un entorno complejo;
+- Facilitar la colaboración de los interesados según se solicite o necesite.
+
+El Scrum Master sirve a la organización de varias maneras, que incluyen:
+- Liderar, capacitar y guiar a la organización en su adopción de Scrum;
+Planificar y asesorar implementaciones de Scrum dentro de la organización;
+- Ayudar a los empleados y los interesados a comprender y aplicar un enfoque empírico para el
+trabajo complejo;
+Eliminar las barreras entre los interesados y los Scrum Teams.
+
 #### Team (Equipo de Desarrollo) 
 Es el grupo de profesionales con los conocimientos técnicos necesarios y que desarrollan el proyecto de manera conjunta llevando a cabo las historias a las que se comprometen al inicio de cada sprint. Sprint es una serie de periodos de tiempos pequeños, cuya duración es de 1 a 4 semanas, con preferencia por los intervalos más cortos. En cada Sprint, el equipo construye y entrega un incremento del producto. Cada incremento es un subconjunto del producto, reconocible y visualmente mejorado, que cumple con el criterio de aceptación y está construido con un nivel de calidad llamado definición de terminado.
 
