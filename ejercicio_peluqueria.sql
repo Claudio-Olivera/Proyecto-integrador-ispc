@@ -1,11 +1,13 @@
+start transaction;
+
+
+
+
+-- 1. Creacion de base y tablas
+
 drop database IF EXISTS PELUQUERIA;
 create database PELUQUERIA;
 use PELUQUERIA;
-
-
-start transaction;
-
--- Creacion de base y tablas
 
 CREATE TABLE Dueno
 (
@@ -48,15 +50,24 @@ ALTER TABLE Historial
     FOREIGN KEY (Perro)
     REFERENCES Perro (ID_Perro);
 
--- Inserte en la tabla correspondiente un nuevo animal (perro) como paciente y el dueño asociado a ese animal.
+-- 2. Inserte en la tabla correspondiente un nuevo animal (perro) como paciente y el dueño asociado a ese animal.
 -- (Primero voy a insertar el dueño, y despues el perro que lo referencia)
 
 INSERT INTO DUENO (DNI, NOMBRE, APELLIDO, TELEFONO, DIRECCION) VALUES (33222111,"JUAN","PEREZ",3513222111,"AV COLON 48");
 INSERT INTO PERRO (NOMBRE, FECHA_NAC,SEXO,DNI_DUENO) VALUES ("FIRULAYS","2010-01-01","MACHO",33222111);
 
--- Actualice la fecha de nacimiento de algún animal (perro) que usted considere.
+-- 4. Actualice la fecha de nacimiento de algún animal (perro) que usted considere.
 SELECT * FROM PERRO;
 UPDATE PERRO SET FECHA_NAC="2020-01-01" WHERE ID_PERRO=1;
 SELECT * FROM PERRO;
+
+-- 8. Insertar un nuevo registro en la tabla historial de un perro cuyo ID Perro es igual a 10.
+-- (primero voy a necesitar que exista un perro con Id = 10.....)
+INSERT INTO PERRO (ID_PERRO,NOMBRE, FECHA_NAC,SEXO,DNI_DUENO) VALUES (10,"PAQUITA","2015-01-01","HEMBRA",33222111);
+SELECT * FROM PERRO;
+-- (Ahora si puedo registrar un historial para paquita)
+insert into historial (fecha, perro, descripcion, monto) values 
+("2022-08-10",10,"A paquita le hicimos un baño y secado", 1500.00);
+select * from historial;
 
 rollback;
