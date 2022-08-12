@@ -4,10 +4,10 @@ use Veterinaria;
 CREATE TABLE Dueno
 (
   DNI INT NOT NULL UNIQUE,
-  Nombre    VARCHAR (50) NOT NULL,
-  Apellido  VARCHAR (50) NOT NULL,
+  Nombre    VARCHAR (100) NOT NULL,
+  Apellido  VARCHAR (100) NOT NULL,
   Telefono  VARCHAR (20) NOT NULL,
-  Direccion VARCHAR (50) NOT NULL,
+  Direccion VARCHAR (100) NOT NULL,
   PRIMARY KEY (DNI)
 );
 
