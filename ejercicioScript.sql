@@ -45,6 +45,7 @@ VALUES("Chicha", "2016-11-18", "Hembra", 39241916);
             DELETE FROM historial WHERE perro = 1 ;
 
 /*9- Escriba una consulta que permita actualizar la dirección de un dueño. Su nueva dirección es Libertad 123*/
+
 SELECT*FROM peluqueriacanina.Dueño; #Consulto los datos de los dueños
 
 UPDATE peluqueriacanina.Dueño
