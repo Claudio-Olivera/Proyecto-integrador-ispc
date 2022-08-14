@@ -12,7 +12,7 @@ Historial2 = (23500, 5960, 2300, 10200, 8900)
 
 # Calculo del monto total gastado por Frida
 MontoGastado = sum(list(Historial2))
-print(MontoGastado)
+print("El monto total gastado es " + MontoGastado)
 
 #Función que muestra los gastos superiores a 5000 y cuantos fueron 
 num = 0
